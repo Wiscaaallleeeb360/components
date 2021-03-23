@@ -1,0 +1,27 @@
+<svg id="Component_1_1" data-name="Component 1 – 1" xmlns="http://www.w3.org/2000/svg" width="360" height="128" viewBox="0 0 360 128">
+  <g id="Rectangle_16" data-name="Rectangle 16" fill="#4864f3" stroke="#707070" stroke-width="1">
+    <rect width="360" height="128" stroke="none"/>
+    <rect x="0.5" y="0.5" width="359" height="127" fill="none"/>
+  </g>
+  <text id="_Sign_up_It_s_free_and_always_will_be" data-name="     Sign up
+                           It&apos;s free and always will be" transform="translate(143 45)" fill="#0f0f0f" font-size="21" font-family="SegoeUI, Segoe UI"><tspan x="-49.619" y="0" xml:space="preserve">     Sign up</tspan><tspan font-size="10"><tspan x="-94.229" y="16" xml:space="preserve">                           It&apos;s free and always will be</tspan></tspan></text>
+  <g id="Rectangle_17" data-name="Rectangle 17" transform="translate(128 96)" fill="#fff" stroke="#707070" stroke-width="1">
+    <rect width="96" height="24" stroke="none"/>
+    <rect x="0.5" y="0.5" width="95" height="23" fill="none"/>
+  </g>
+  <g id="Rectangle_18" data-name="Rectangle 18" transform="translate(264 96)" fill="#fff" stroke="#707070" stroke-width="1">
+    <rect width="88" height="24" stroke="none"/>
+    <rect x="0.5" y="0.5" width="87" height="23" fill="none"/>
+  </g>
+  <text id="First_name" data-name="First name" transform="translate(159 115)" fill="#0f0f0f" font-size="12" font-family="SegoeUI, Segoe UI"><tspan x="-27.445" y="0">First name</tspan></text>
+  <text id="Last_name" data-name="Last name" transform="translate(298 115)" fill="#0f0f0f" font-size="12" font-family="SegoeUI, Segoe UI"><tspan x="-26.854" y="0">Last name</tspan></text>
+  <g id="Rectangle_19" data-name="Rectangle 19" transform="translate(8 96)" fill="#f03030" stroke="#707070" stroke-width="1">
+    <rect width="96" height="24" stroke="none"/>
+    <rect x="0.5" y="0.5" width="95" height="23" fill="none"/>
+  </g>
+  <g id="Polygon_1" data-name="Polygon 1" transform="translate(128 96) rotate(90)" fill="#fff">
+    <path d="M 23.19098472595215 23.5 L 0.8090149760246277 23.5 L 12 1.118029952049255 L 23.19098472595215 23.5 Z" stroke="none"/>
+    <path d="M 12 2.23607063293457 L 1.618034362792969 23 L 22.38196563720703 23 L 12 2.23607063293457 M 12 0 L 24 24 L 0 24 L 12 0 Z" stroke="none" fill="#707070"/>
+  </g>
+  <text id="What_s_your_name_" data-name="What&apos;s your name?" transform="translate(56 112)" fill="#fff9f9" font-size="10" font-family="SegoeUI, Segoe UI"><tspan x="-42.202" y="0">What&apos;s your name?</tspan></text>
+</svg>

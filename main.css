@@ -1,0 +1,36 @@
+:root{
+    box-sizing: border-box;
+}
+
+*,
+::before,
+::after {
+    box-sizing: inherit;
+    margin: 0;
+}
+
+.button { 
+    width: 360px;
+    height: 128px;
+    background-image: url('images/Component\ 1\ –\ 1.svg'); 
+    background-size: cover;
+}
+.search{
+    width: 752px;
+    height: 104px;
+    background-image: url('images/Component\ 2\ –\ 1.svg');
+    background-size: cover;
+
+}
+.toolbar{
+    width:600px;
+    height:280px;
+    background-image: url('images/Component\ 3\ –\ 1.svg');
+    background-size:cover;
+}
+.add{
+    width:468px;
+    height:212px;
+    background-image: url('images/Component\ 4\ –\ 1.svg');
+    background-size:cover;
+}
